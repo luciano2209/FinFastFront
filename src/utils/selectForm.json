@@ -1,0 +1,1690 @@
+[
+  [
+    {
+      "codigo": 1,
+      "nombre": "Tarapacá"
+    },
+    {
+      "codigo": 2,
+      "nombre": "Antofagasta"
+    },
+    {
+      "codigo": 3,
+      "nombre": "Atacama"
+    },
+    {
+      "codigo": 4,
+      "nombre": "Coquimbo"
+    },
+    {
+      "codigo": 5,
+      "nombre": "Valparaíso"
+    },
+    {
+      "codigo": 6,
+      "nombre": "Libertador B. OHiggins"
+    },
+    {
+      "codigo": 7,
+      "nombre": "Maule"
+    },
+    {
+      "codigo": 8,
+      "nombre": "Bíobío"
+    },
+    {
+      "codigo": 9,
+      "nombre": "La Araucanía"
+    },
+    {
+      "codigo": 10,
+      "nombre": "Los Lagos"
+    },
+    {
+      "codigo": 11,
+      "nombre": "Aisén del Gral. C. Ibáñez del Campo"
+    },
+    {
+      "codigo": 12,
+      "nombre": "Magallanes y de La Antártica Chilena"
+    },
+    {
+      "codigo": 13,
+      "nombre": "Metropolitana de Santiago"
+    },
+    {
+      "codigo": 14,
+      "nombre": "Los Ríos"
+    },
+    {
+      "codigo": 15,
+      "nombre": "Arica y Parinacota"
+    },
+    {
+      "codigo": 16,
+      "nombre": "Ñuble"
+    }
+  ],
+  [
+    {
+      "codigo": 1,
+      "nombre": "Iquique"
+    },
+    {
+      "codigo": 2,
+      "nombre": "Del Tamarugal"
+    },
+    {
+      "codigo": 1,
+      "nombre": "Tocopilla"
+    },
+    {
+      "codigo": 2,
+      "nombre": "El Loa"
+    },
+    {
+      "codigo": 3,
+      "nombre": "Antofagasta"
+    },
+    {
+      "codigo": 1,
+      "nombre": "Chañaral"
+    },
+    {
+      "codigo": 2,
+      "nombre": "Copiapó"
+    },
+    {
+      "codigo": 3,
+      "nombre": "Huasco"
+    },
+    {
+      "codigo": 1,
+      "nombre": "Elqui"
+    },
+    {
+      "codigo": 2,
+      "nombre": "Limarí"
+    },
+    {
+      "codigo": 3,
+      "nombre": "Choapa"
+    },
+    {
+      "codigo": 1,
+      "nombre": "Petorca"
+    },
+    {
+      "codigo": 2,
+      "nombre": "Los Andes"
+    },
+    {
+      "codigo": 3,
+      "nombre": "San Felipe de Aconcagua"
+    },
+    {
+      "codigo": 4,
+      "nombre": "Quillota"
+    },
+    {
+      "codigo": 5,
+      "nombre": "Valparaíso"
+    },
+    {
+      "codigo": 6,
+      "nombre": "San Antonio"
+    },
+    {
+      "codigo": 7,
+      "nombre": "Isla de Pascua"
+    },
+    {
+      "codigo": 1,
+      "nombre": "Cachapoal"
+    },
+    {
+      "codigo": 2,
+      "nombre": "Colchagua"
+    },
+    {
+      "codigo": 3,
+      "nombre": "Cardenal Caro"
+    },
+    {
+      "codigo": 1,
+      "nombre": "Curicó"
+    },
+    {
+      "codigo": 2,
+      "nombre": "Talca"
+    },
+    {
+      "codigo": 3,
+      "nombre": "Linares"
+    },
+    {
+      "codigo": 4,
+      "nombre": "Cauquenes"
+    },
+    {
+      "codigo": 2,
+      "nombre": "Biobío"
+    },
+    {
+      "codigo": 3,
+      "nombre": "Concepción"
+    },
+    {
+      "codigo": 4,
+      "nombre": "Arauco"
+    },
+    {
+      "codigo": 1,
+      "nombre": "Malleco"
+    },
+    {
+      "codigo": 2,
+      "nombre": "Cautín"
+    },
+    {
+      "codigo": 1,
+      "nombre": "Ranco"
+    },
+    {
+      "codigo": 2,
+      "nombre": "Osorno"
+    },
+    {
+      "codigo": 3,
+      "nombre": "Llanquihue"
+    },
+    {
+      "codigo": 4,
+      "nombre": "Chiloé"
+    },
+    {
+      "codigo": 5,
+      "nombre": "Palena"
+    },
+    {
+      "codigo": 1,
+      "nombre": "Coihaique"
+    },
+    {
+      "codigo": 2,
+      "nombre": "Aisén"
+    },
+    {
+      "codigo": 3,
+      "nombre": "General Carrera"
+    },
+    {
+      "codigo": 4,
+      "nombre": "Capitán Prat"
+    },
+    {
+      "codigo": 1,
+      "nombre": "Ultima Esperanza"
+    },
+    {
+      "codigo": 2,
+      "nombre": "Magallanes"
+    },
+    {
+      "codigo": 3,
+      "nombre": "Tierra del Fuego"
+    },
+    {
+      "codigo": 4,
+      "nombre": "Antártica Chilena"
+    },
+    {
+      "codigo": 1,
+      "nombre": "Santiago"
+    },
+    {
+      "codigo": 2,
+      "nombre": "Chacabuco"
+    },
+    {
+      "codigo": 3,
+      "nombre": "Cordillera"
+    },
+    {
+      "codigo": 4,
+      "nombre": "Maipo"
+    },
+    {
+      "codigo": 5,
+      "nombre": "Melipilla"
+    },
+    {
+      "codigo": 6,
+      "nombre": "Talagante"
+    },
+    {
+      "codigo": 1,
+      "nombre": "Valdivia"
+    },
+    {
+      "codigo": 2,
+      "nombre": "Ranco"
+    },
+    {
+      "codigo": 1,
+      "nombre": "Arica"
+    },
+    {
+      "codigo": 2,
+      "nombre": "Parinacota"
+    },
+    {
+      "codigo": 1,
+      "nombre": "Diguillín"
+    },
+    {
+      "codigo": 2,
+      "nombre": "Punilla"
+    },
+    {
+      "codigo": 3,
+      "nombre": "Itata"
+    }
+  ],
+  [
+  {
+    "Codigo": 1,
+    "Nombre": "Iquique"
+  },
+  {
+    "Codigo": 2,
+    "Nombre": "Alto Hospicio"
+  },
+  {
+    "Codigo": 1,
+    "Nombre": "Huara"
+  },
+  {
+    "Codigo": 2,
+    "Nombre": "Camiña"
+  },
+  {
+    "Codigo": 3,
+    "Nombre": "Colchane"
+  },
+  {
+    "Codigo": 4,
+    "Nombre": "Pica"
+  },
+  {
+    "Codigo": 5,
+    "Nombre": "Pozo Almonte"
+  },
+  {
+    "Codigo": 1,
+    "Nombre": "Tocopilla"
+  },
+  {
+    "Codigo": 2,
+    "Nombre": "María Elena"
+  },
+  {
+    "Codigo": 1,
+    "Nombre": "Calama"
+  },
+  {
+    "Codigo": 2,
+    "Nombre": "Ollagüe"
+  },
+  {
+    "Codigo": 3,
+    "Nombre": "San Pedro de Atacama"
+  },
+  {
+    "Codigo": 1,
+    "Nombre": "Antofagasta"
+  },
+  {
+    "Codigo": 2,
+    "Nombre": "Mejillones"
+  },
+  {
+    "Codigo": 3,
+    "Nombre": "Sierra Gorda"
+  },
+  {
+    "Codigo": 4,
+    "Nombre": "Taltal"
+  },
+  {
+    "Codigo": 1,
+    "Nombre": "Chañaral"
+  },
+  {
+    "Codigo": 2,
+    "Nombre": "Diego de Almagro"
+  },
+  {
+    "Codigo": 1,
+    "Nombre": "Copiapó"
+  },
+  {
+    "Codigo": 2,
+    "Nombre": "Caldera"
+  },
+  {
+    "Codigo": 3,
+    "Nombre": "Tierra Amarilla"
+  },
+  {
+    "Codigo": 1,
+    "Nombre": "Vallenar"
+  },
+  {
+    "Codigo": 2,
+    "Nombre": "Freirina"
+  },
+  {
+    "Codigo": 3,
+    "Nombre": "Huasco"
+  },
+  {
+    "Codigo": 4,
+    "Nombre": "Alto del Carmen"
+  },
+  {
+    "Codigo": 1,
+    "Nombre": "La Serena"
+  },
+  {
+    "Codigo": 2,
+    "Nombre": "La Higuera"
+  },
+  {
+    "Codigo": 3,
+    "Nombre": "Coquimbo"
+  },
+  {
+    "Codigo": 4,
+    "Nombre": "Andacollo"
+  },
+  {
+    "Codigo": 5,
+    "Nombre": "Vicuña"
+  },
+  {
+    "Codigo": 6,
+    "Nombre": "Paihuano"
+  },
+  {
+    "Codigo": 1,
+    "Nombre": "Ovalle"
+  },
+  {
+    "Codigo": 2,
+    "Nombre": "Río Hurtado"
+  },
+  {
+    "Codigo": 3,
+    "Nombre": "Monte Patria"
+  },
+  {
+    "Codigo": 4,
+    "Nombre": "Combarbalá"
+  },
+  {
+    "Codigo": 5,
+    "Nombre": "Punitaqui"
+  },
+  {
+    "Codigo": 1,
+    "Nombre": "Illapel"
+  },
+  {
+    "Codigo": 2,
+    "Nombre": "Salamanca"
+  },
+  {
+    "Codigo": 3,
+    "Nombre": "Los Vilos"
+  },
+  {
+    "Codigo": 4,
+    "Nombre": "Canela"
+  },
+  {
+    "Codigo": 1,
+    "Nombre": "La Ligua"
+  },
+  {
+    "Codigo": 2,
+    "Nombre": "Petorca"
+  },
+  {
+    "Codigo": 3,
+    "Nombre": "Cabildo"
+  },
+  {
+    "Codigo": 4,
+    "Nombre": "Zapallar"
+  },
+  {
+    "Codigo": 5,
+    "Nombre": "Papudo"
+  },
+  {
+    "Codigo": 1,
+    "Nombre": "Los Andes"
+  },
+  {
+    "Codigo": 2,
+    "Nombre": "San Esteban"
+  },
+  {
+    "Codigo": 3,
+    "Nombre": "Calle Larga"
+  },
+  {
+    "Codigo": 4,
+    "Nombre": "Rinconada"
+  },
+  {
+    "Codigo": 1,
+    "Nombre": "San Felipe"
+  },
+  {
+    "Codigo": 2,
+    "Nombre": "Putaendo"
+  },
+  {
+    "Codigo": 3,
+    "Nombre": "Santa María"
+  },
+  {
+    "Codigo": 4,
+    "Nombre": "Panquehue"
+  },
+  {
+    "Codigo": 5,
+    "Nombre": "Llaillay"
+  },
+  {
+    "Codigo": 6,
+    "Nombre": "Catemu"
+  },
+  {
+    "Codigo": 1,
+    "Nombre": "Quillota"
+  },
+  {
+    "Codigo": 2,
+    "Nombre": "La Cruz"
+  },
+  {
+    "Codigo": 3,
+    "Nombre": "Calera"
+  },
+  {
+    "Codigo": 4,
+    "Nombre": "Nogales"
+  },
+  {
+    "Codigo": 5,
+    "Nombre": "Hijuelas"
+  },
+  {
+    "Codigo": 6,
+    "Nombre": "Limache"
+  },
+  {
+    "Codigo": 7,
+    "Nombre": "Olmué"
+  },
+  {
+    "Codigo": 1,
+    "Nombre": "Valparaíso"
+  },
+  {
+    "Codigo": 2,
+    "Nombre": "Viña del Mar"
+  },
+  {
+    "Codigo": 3,
+    "Nombre": "Quintero"
+  },
+  {
+    "Codigo": 4,
+    "Nombre": "Puchuncaví"
+  },
+  {
+    "Codigo": 5,
+    "Nombre": "Quilpué"
+  },
+  {
+    "Codigo": 6,
+    "Nombre": "Villa Alemana"
+  },
+  {
+    "Codigo": 7,
+    "Nombre": "Casablanca"
+  },
+  {
+    "Codigo": 8,
+    "Nombre": "Concón"
+  },
+  {
+    "Codigo": 9,
+    "Nombre": "Juan Fernández"
+  },
+  {
+    "Codigo": 1,
+    "Nombre": "San Antonio"
+  },
+  {
+    "Codigo": 2,
+    "Nombre": "Cartagena"
+  },
+  {
+    "Codigo": 3,
+    "Nombre": "El Tabo"
+  },
+  {
+    "Codigo": 4,
+    "Nombre": "El Quisco"
+  },
+  {
+    "Codigo": 5,
+    "Nombre": "Algarrobo"
+  },
+  {
+    "Codigo": 6,
+    "Nombre": "Santo Domingo"
+  },
+  {
+    "Codigo": 1,
+    "Nombre": "Isla de Pascua"
+  },
+  {
+    "Codigo": 1,
+    "Nombre": "Rancagua"
+  },
+  {
+    "Codigo": 2,
+    "Nombre": "Graneros"
+  },
+  {
+    "Codigo": 3,
+    "Nombre": "Mostazal"
+  },
+  {
+    "Codigo": 4,
+    "Nombre": "Codegua"
+  },
+  {
+    "Codigo": 5,
+    "Nombre": "Machalí"
+  },
+  {
+    "Codigo": 6,
+    "Nombre": "Olivar"
+  },
+  {
+    "Codigo": 7,
+    "Nombre": "Requinoa"
+  },
+  {
+    "Codigo": 8,
+    "Nombre": "Rengo"
+  },
+  {
+    "Codigo": 9,
+    "Nombre": "Malloa"
+  },
+  {
+    "Codigo": 10,
+    "Nombre": "Quinta de Tilcoco"
+  },
+  {
+    "Codigo": 11,
+    "Nombre": "San Vicente"
+  },
+  {
+    "Codigo": 12,
+    "Nombre": "Pichidegua"
+  },
+  {
+    "Codigo": 13,
+    "Nombre": "Peumo"
+  },
+  {
+    "Codigo": 14,
+    "Nombre": "Coltauco"
+  },
+  {
+    "Codigo": 15,
+    "Nombre": "Coinco"
+  },
+  {
+    "Codigo": 16,
+    "Nombre": "Doñihue"
+  },
+  {
+    "Codigo": 17,
+    "Nombre": "Las Cabras"
+  },
+  {
+    "Codigo": 1,
+    "Nombre": "San Fernando"
+  },
+  {
+    "Codigo": 2,
+    "Nombre": "Chimbarongo"
+  },
+  {
+    "Codigo": 3,
+    "Nombre": "Placilla"
+  },
+  {
+    "Codigo": 4,
+    "Nombre": "Nancagua"
+  },
+  {
+    "Codigo": 5,
+    "Nombre": "Chépica"
+  },
+  {
+    "Codigo": 6,
+    "Nombre": "Santa Cruz"
+  },
+  {
+    "Codigo": 7,
+    "Nombre": "Lolol"
+  },
+  {
+    "Codigo": 8,
+    "Nombre": "Pumanque"
+  },
+  {
+    "Codigo": 9,
+    "Nombre": "Palmilla"
+  },
+  {
+    "Codigo": 10,
+    "Nombre": "Peralillo"
+  },
+  {
+    "Codigo": 1,
+    "Nombre": "Pichilemu"
+  },
+  {
+    "Codigo": 2,
+    "Nombre": "Navidad"
+  },
+  {
+    "Codigo": 3,
+    "Nombre": "Litueche"
+  },
+  {
+    "Codigo": 4,
+    "Nombre": "La Estrella"
+  },
+  {
+    "Codigo": 5,
+    "Nombre": "Marchihue"
+  },
+  {
+    "Codigo": 6,
+    "Nombre": "Paredones"
+  },
+  {
+    "Codigo": 1,
+    "Nombre": "Curicó"
+  },
+  {
+    "Codigo": 2,
+    "Nombre": "Teno"
+  },
+  {
+    "Codigo": 3,
+    "Nombre": "Romeral"
+  },
+  {
+    "Codigo": 4,
+    "Nombre": "Molina"
+  },
+  {
+    "Codigo": 5,
+    "Nombre": "Sagrada Familia"
+  },
+  {
+    "Codigo": 6,
+    "Nombre": "Hualañé"
+  },
+  {
+    "Codigo": 7,
+    "Nombre": "Licantén"
+  },
+  {
+    "Codigo": 8,
+    "Nombre": "Vichuquén"
+  },
+  {
+    "Codigo": 9,
+    "Nombre": "Rauco"
+  },
+  {
+    "Codigo": 1,
+    "Nombre": "Talca"
+  },
+  {
+    "Codigo": 2,
+    "Nombre": "Pelarco"
+  },
+  {
+    "Codigo": 3,
+    "Nombre": "Río Claro"
+  },
+  {
+    "Codigo": 4,
+    "Nombre": "San Clemente"
+  },
+  {
+    "Codigo": 5,
+    "Nombre": "Maule"
+  },
+  {
+    "Codigo": 6,
+    "Nombre": "San Rafael"
+  },
+  {
+    "Codigo": 7,
+    "Nombre": "Empedrado"
+  },
+  {
+    "Codigo": 8,
+    "Nombre": "Pencahue"
+  },
+  {
+    "Codigo": 9,
+    "Nombre": "Constitución"
+  },
+  {
+    "Codigo": 10,
+    "Nombre": "Curepto"
+  },
+  {
+    "Codigo": 1,
+    "Nombre": "Linares"
+  },
+  {
+    "Codigo": 2,
+    "Nombre": "Yerbas Buenas"
+  },
+  {
+    "Codigo": 3,
+    "Nombre": "Colbún"
+  },
+  {
+    "Codigo": 4,
+    "Nombre": "Longaví"
+  },
+  {
+    "Codigo": 5,
+    "Nombre": "Parral"
+  },
+  {
+    "Codigo": 6,
+    "Nombre": "Retiro"
+  },
+  {
+    "Codigo": 7,
+    "Nombre": "Villa Alegre"
+  },
+  {
+    "Codigo": 8,
+    "Nombre": "San Javier"
+  },
+  {
+    "Codigo": 1,
+    "Nombre": "Cauquenes"
+  },
+  {
+    "Codigo": 2,
+    "Nombre": "Pelluhue"
+  },
+  {
+    "Codigo": 3,
+    "Nombre": "Chanco"
+  },
+  {
+    "Codigo": 1,
+    "Nombre": "Alto Biobío"
+  },
+  {
+    "Codigo": 2,
+    "Nombre": "Los Angeles"
+  },
+  {
+    "Codigo": 3,
+    "Nombre": "Cabrero"
+  },
+  {
+    "Codigo": 4,
+    "Nombre": "Tucapel"
+  },
+  {
+    "Codigo": 5,
+    "Nombre": "Antuco"
+  },
+  {
+    "Codigo": 6,
+    "Nombre": "Quilleco"
+  },
+  {
+    "Codigo": 7,
+    "Nombre": "Santa Bárbara"
+  },
+  {
+    "Codigo": 8,
+    "Nombre": "Quilaco"
+  },
+  {
+    "Codigo": 9,
+    "Nombre": "Mulchén"
+  },
+  {
+    "Codigo": 10,
+    "Nombre": "Negrete"
+  },
+  {
+    "Codigo": 11,
+    "Nombre": "Nacimiento"
+  },
+  {
+    "Codigo": 12,
+    "Nombre": "Laja"
+  },
+  {
+    "Codigo": 13,
+    "Nombre": "San Rosendo"
+  },
+  {
+    "Codigo": 14,
+    "Nombre": "Yumbel"
+  },
+  {
+    "Codigo": 1,
+    "Nombre": "Concepción"
+  },
+  {
+    "Codigo": 2,
+    "Nombre": "Talcahuano"
+  },
+  {
+    "Codigo": 3,
+    "Nombre": "Penco"
+  },
+  {
+    "Codigo": 4,
+    "Nombre": "Tomé"
+  },
+  {
+    "Codigo": 5,
+    "Nombre": "Florida"
+  },
+  {
+    "Codigo": 6,
+    "Nombre": "Hualpén"
+  },
+  {
+    "Codigo": 7,
+    "Nombre": "Hualqui"
+  },
+  {
+    "Codigo": 8,
+    "Nombre": "Santa Juana"
+  },
+  {
+    "Codigo": 9,
+    "Nombre": "Lota"
+  },
+  {
+    "Codigo": 10,
+    "Nombre": "Coronel"
+  },
+  {
+    "Codigo": 11,
+    "Nombre": "San Pedro de la Paz"
+  },
+  {
+    "Codigo": 12,
+    "Nombre": "Chiguayante"
+  },
+  {
+    "Codigo": 1,
+    "Nombre": "Lebu"
+  },
+  {
+    "Codigo": 2,
+    "Nombre": "Arauco"
+  },
+  {
+    "Codigo": 3,
+    "Nombre": "Curanilahue"
+  },
+  {
+    "Codigo": 4,
+    "Nombre": "Los Alamos"
+  },
+  {
+    "Codigo": 5,
+    "Nombre": "Cañete"
+  },
+  {
+    "Codigo": 6,
+    "Nombre": "Contulmo"
+  },
+  {
+    "Codigo": 7,
+    "Nombre": "Tirua"
+  },
+  {
+    "Codigo": 1,
+    "Nombre": "Angol"
+  },
+  {
+    "Codigo": 2,
+    "Nombre": "Renaico"
+  },
+  {
+    "Codigo": 3,
+    "Nombre": "Collipulli"
+  },
+  {
+    "Codigo": 4,
+    "Nombre": "Lonquimay"
+  },
+  {
+    "Codigo": 5,
+    "Nombre": "Curacautín"
+  },
+  {
+    "Codigo": 6,
+    "Nombre": "Ercilla"
+  },
+  {
+    "Codigo": 7,
+    "Nombre": "Victoria"
+  },
+  {
+    "Codigo": 8,
+    "Nombre": "Traiguén"
+  },
+  {
+    "Codigo": 9,
+    "Nombre": "Lumaco"
+  },
+  {
+    "Codigo": 10,
+    "Nombre": "Purén"
+  },
+  {
+    "Codigo": 11,
+    "Nombre": "Los Sauces"
+  },
+  {
+    "Codigo": 1,
+    "Nombre": "Temuco"
+  },
+  {
+    "Codigo": 2,
+    "Nombre": "Lautaro"
+  },
+  {
+    "Codigo": 3,
+    "Nombre": "Perquenco"
+  },
+  {
+    "Codigo": 4,
+    "Nombre": "Vilcún"
+  },
+  {
+    "Codigo": 5,
+    "Nombre": "Cholchol"
+  },
+  {
+    "Codigo": 6,
+    "Nombre": "Cunco"
+  },
+  {
+    "Codigo": 7,
+    "Nombre": "Melipeuco"
+  },
+  {
+    "Codigo": 8,
+    "Nombre": "Curarrehue"
+  },
+  {
+    "Codigo": 9,
+    "Nombre": "Pucón"
+  },
+  {
+    "Codigo": 10,
+    "Nombre": "Villarrica"
+  },
+  {
+    "Codigo": 11,
+    "Nombre": "Freire"
+  },
+  {
+    "Codigo": 12,
+    "Nombre": "Pitrufquén"
+  },
+  {
+    "Codigo": 13,
+    "Nombre": "Gorbea"
+  },
+  {
+    "Codigo": 14,
+    "Nombre": "Loncoche"
+  },
+  {
+    "Codigo": 15,
+    "Nombre": "Toltén"
+  },
+  {
+    "Codigo": 16,
+    "Nombre": "Teodoro Schmidt"
+  },
+  {
+    "Codigo": 17,
+    "Nombre": "Saavedra"
+  },
+  {
+    "Codigo": 18,
+    "Nombre": "Carahue"
+  },
+  {
+    "Codigo": 19,
+    "Nombre": "Nueva Imperial"
+  },
+  {
+    "Codigo": 20,
+    "Nombre": "Galvarino"
+  },
+  {
+    "Codigo": 21,
+    "Nombre": "Padre las Casas"
+  },
+  {
+    "Codigo": 1,
+    "Nombre": "Osorno"
+  },
+  {
+    "Codigo": 1,
+    "Nombre": "San Pablo"
+  },
+  {
+    "Codigo": 2,
+    "Nombre": "Puyehue"
+  },
+  {
+    "Codigo": 3,
+    "Nombre": "Puerto Octay"
+  },
+  {
+    "Codigo": 4,
+    "Nombre": "Purranque"
+  },
+  {
+    "Codigo": 5,
+    "Nombre": "Río Negro"
+  },
+  {
+    "Codigo": 6,
+    "Nombre": "San Juan de la Costa"
+  },
+  {
+    "Codigo": 1,
+    "Nombre": "Puerto Montt"
+  },
+  {
+    "Codigo": 2,
+    "Nombre": "Puerto Varas"
+  },
+  {
+    "Codigo": 3,
+    "Nombre": "Cochamó"
+  },
+  {
+    "Codigo": 4,
+    "Nombre": "Calbuco"
+  },
+  {
+    "Codigo": 5,
+    "Nombre": "Maullín"
+  },
+  {
+    "Codigo": 6,
+    "Nombre": "Los Muermos"
+  },
+  {
+    "Codigo": 7,
+    "Nombre": "Fresia"
+  },
+  {
+    "Codigo": 8,
+    "Nombre": "Llanquihue"
+  },
+  {
+    "Codigo": 9,
+    "Nombre": "Frutillar"
+  },
+  {
+    "Codigo": 1,
+    "Nombre": "Castro"
+  },
+  {
+    "Codigo": 2,
+    "Nombre": "Ancud"
+  },
+  {
+    "Codigo": 3,
+    "Nombre": "Quemchi"
+  },
+  {
+    "Codigo": 4,
+    "Nombre": "Dalcahue"
+  },
+  {
+    "Codigo": 5,
+    "Nombre": "Curaco de Vélez"
+  },
+  {
+    "Codigo": 6,
+    "Nombre": "Quinchao"
+  },
+  {
+    "Codigo": 7,
+    "Nombre": "Puqueldón"
+  },
+  {
+    "Codigo": 8,
+    "Nombre": "Chonchi"
+  },
+  {
+    "Codigo": 9,
+    "Nombre": "Queilén"
+  },
+  {
+    "Codigo": 10,
+    "Nombre": "Quellón"
+  },
+  {
+    "Codigo": 1,
+    "Nombre": "Chaitén"
+  },
+  {
+    "Codigo": 2,
+    "Nombre": "Hualaihué"
+  },
+  {
+    "Codigo": 3,
+    "Nombre": "Futaleufú"
+  },
+  {
+    "Codigo": 4,
+    "Nombre": "Palena"
+  },
+  {
+    "Codigo": 1,
+    "Nombre": "Coihaique"
+  },
+  {
+    "Codigo": 2,
+    "Nombre": "Lago Verde"
+  },
+  {
+    "Codigo": 1,
+    "Nombre": "Aisén"
+  },
+  {
+    "Codigo": 2,
+    "Nombre": "Cisnes"
+  },
+  {
+    "Codigo": 3,
+    "Nombre": "Guaitecas"
+  },
+  {
+    "Codigo": 1,
+    "Nombre": "Chile Chico"
+  },
+  {
+    "Codigo": 2,
+    "Nombre": "Río Ibánez"
+  },
+  {
+    "Codigo": 3,
+    "Nombre": "Cochrane"
+  },
+  {
+    "Codigo": 4,
+    "Nombre": "O'Higgins"
+  },
+  {
+    "Codigo": 1,
+    "Nombre": "Tortel"
+  },
+  {
+    "Codigo": 1,
+    "Nombre": "Natales"
+  },
+  {
+    "Codigo": 2,
+    "Nombre": "Torres del Paine"
+  },
+  {
+    "Codigo": 1,
+    "Nombre": "Punta Arenas"
+  },
+  {
+    "Codigo": 2,
+    "Nombre": "Río Verde"
+  },
+  {
+    "Codigo": 3,
+    "Nombre": "Laguna Blanca"
+  },
+  {
+    "Codigo": 4,
+    "Nombre": "San Gregorio"
+  },
+  {
+    "Codigo": 1,
+    "Nombre": "Porvenir"
+  },
+  {
+    "Codigo": 2,
+    "Nombre": "Primavera"
+  },
+  {
+    "Codigo": 3,
+    "Nombre": "Timaukel"
+  },
+  {
+    "Codigo": 1,
+    "Nombre": "Cabo de Hornos"
+  },
+  {
+    "Codigo": 2,
+    "Nombre": "Antártica"
+  },
+  {
+    "Codigo": 1,
+    "Nombre": "Santiago"
+  },
+  {
+    "Codigo": 2,
+    "Nombre": "Independencia"
+  },
+  {
+    "Codigo": 3,
+    "Nombre": "Conchalí"
+  },
+  {
+    "Codigo": 4,
+    "Nombre": "Huechuraba"
+  },
+  {
+    "Codigo": 5,
+    "Nombre": "Recoleta"
+  },
+  {
+    "Codigo": 6,
+    "Nombre": "Providencia"
+  },
+  {
+    "Codigo": 7,
+    "Nombre": "Vitacura"
+  },
+  {
+    "Codigo": 8,
+    "Nombre": "Lo Barnechea"
+  },
+  {
+    "Codigo": 9,
+    "Nombre": "Las Condes"
+  },
+  {
+    "Codigo": 10,
+    "Nombre": "Ñuñoa"
+  },
+  {
+    "Codigo": 11,
+    "Nombre": "La Reina"
+  },
+  {
+    "Codigo": 12,
+    "Nombre": "Macul"
+  },
+  {
+    "Codigo": 13,
+    "Nombre": "Peñalolén"
+  },
+  {
+    "Codigo": 14,
+    "Nombre": "La Florida"
+  },
+  {
+    "Codigo": 15,
+    "Nombre": "San Joaquín"
+  },
+  {
+    "Codigo": 16,
+    "Nombre": "La Granja"
+  },
+  {
+    "Codigo": 17,
+    "Nombre": "La Pintana"
+  },
+  {
+    "Codigo": 18,
+    "Nombre": "San Ramón"
+  },
+  {
+    "Codigo": 19,
+    "Nombre": "San Miguel"
+  },
+  {
+    "Codigo": 20,
+    "Nombre": "La Cisterna"
+  },
+  {
+    "Codigo": 21,
+    "Nombre": "El Bosque"
+  },
+  {
+    "Codigo": 22,
+    "Nombre": "Pedro Aguirre Cerda"
+  },
+  {
+    "Codigo": 23,
+    "Nombre": "Lo Espejo"
+  },
+  {
+    "Codigo": 24,
+    "Nombre": "Estación Central"
+  },
+  {
+    "Codigo": 25,
+    "Nombre": "Cerrillos"
+  },
+  {
+    "Codigo": 26,
+    "Nombre": "Maipú"
+  },
+  {
+    "Codigo": 27,
+    "Nombre": "Quinta Normal"
+  },
+  {
+    "Codigo": 28,
+    "Nombre": "Lo Prado"
+  },
+  {
+    "Codigo": 29,
+    "Nombre": "Pudahuel"
+  },
+  {
+    "Codigo": 30,
+    "Nombre": "Cerro Navia"
+  },
+  {
+    "Codigo": 31,
+    "Nombre": "Renca"
+  },
+  {
+    "Codigo": 32,
+    "Nombre": "Quilicura"
+  },
+  {
+    "Codigo": 1,
+    "Nombre": "Colina"
+  },
+  {
+    "Codigo": 2,
+    "Nombre": "Lampa"
+  },
+  {
+    "Codigo": 3,
+    "Nombre": "Tiltil"
+  },
+  {
+    "Codigo": 1,
+    "Nombre": "Puente Alto"
+  },
+  {
+    "Codigo": 2,
+    "Nombre": "San José de Maipo"
+  },
+  {
+    "Codigo": 3,
+    "Nombre": "Pirque"
+  },
+  {
+    "Codigo": 1,
+    "Nombre": "San Bernardo"
+  },
+  {
+    "Codigo": 2,
+    "Nombre": "Buin"
+  },
+  {
+    "Codigo": 3,
+    "Nombre": "Paine"
+  },
+  {
+    "Codigo": 4,
+    "Nombre": "Calera de Tango"
+  },
+  {
+    "Codigo": 1,
+    "Nombre": "Melipilla"
+  },
+  {
+    "Codigo": 2,
+    "Nombre": "María Pinto"
+  },
+  {
+    "Codigo": 3,
+    "Nombre": "Curacaví"
+  },
+  {
+    "Codigo": 4,
+    "Nombre": "Alhué"
+  },
+  {
+    "Codigo": 5,
+    "Nombre": "San Pedro"
+  },
+  {
+    "Codigo": 1,
+    "Nombre": "Talagante"
+  },
+  {
+    "Codigo": 2,
+    "Nombre": "Peñaflor"
+  },
+  {
+    "Codigo": 3,
+    "Nombre": "Isla de Maipo"
+  },
+  {
+    "Codigo": 4,
+    "Nombre": "El Monte"
+  },
+  {
+    "Codigo": 5,
+    "Nombre": "Padre Hurtado"
+  },
+  {
+    "Codigo": 1,
+    "Nombre": "Valdivia"
+  },
+  {
+    "Codigo": 2,
+    "Nombre": "Mariquina"
+  },
+  {
+    "Codigo": 3,
+    "Nombre": "Lanco"
+  },
+  {
+    "Codigo": 4,
+    "Nombre": "Máfil"
+  },
+  {
+    "Codigo": 5,
+    "Nombre": "Corral"
+  },
+  {
+    "Codigo": 6,
+    "Nombre": "Los Lagos"
+  },
+  {
+    "Codigo": 7,
+    "Nombre": "Panguipulli"
+  },
+  {
+    "Codigo": 8,
+    "Nombre": "Paillaco"
+  },
+  {
+    "Codigo": 1,
+    "Nombre": "La Unión"
+  },
+  {
+    "Codigo": 2,
+    "Nombre": "Futrono"
+  },
+  {
+    "Codigo": 3,
+    "Nombre": "Río Bueno"
+  },
+  {
+    "Codigo": 4,
+    "Nombre": "Lago Ranco"
+  },
+  {
+    "Codigo": 1,
+    "Nombre": "Arica"
+  },
+  {
+    "Codigo": 2,
+    "Nombre": "Camarones"
+  },
+  {
+    "Codigo": 1,
+    "Nombre": "Putre"
+  },
+  {
+    "Codigo": 2,
+    "Nombre": "General Lagos"
+  },
+  {
+    "Codigo": 1,
+    "Nombre": "Chillán"
+  },
+  {
+    "Codigo": 2,
+    "Nombre": "Chillán Viejo"
+  },
+  {
+    "Codigo": 3,
+    "Nombre": "Quillón"
+  },
+  {
+    "Codigo": 4,
+    "Nombre": "Bulnes"
+  },
+  {
+    "Codigo": 5,
+    "Nombre": "San Ignacio"
+  },
+  {
+    "Codigo": 6,
+    "Nombre": "El Carmen"
+  },
+  {
+    "Codigo": 7,
+    "Nombre": "Pinto"
+  },
+  {
+    "Codigo": 8,
+    "Nombre": "Pemuco"
+  },
+  {
+    "Codigo": 9,
+    "Nombre": "Yungay"
+  },
+  {
+    "Codigo": 1,
+    "Nombre": "San Carlos"
+  },
+  {
+    "Codigo": 2,
+    "Nombre": "Ñiquén"
+  },
+  {
+    "Codigo": 3,
+    "Nombre": "Coihueco"
+  },
+  {
+    "Codigo": 4,
+    "Nombre": "San Fabián"
+  },
+  {
+    "Codigo": 5,
+    "Nombre": "San Nicolás"
+  },
+  {
+    "Codigo": 1,
+    "Nombre": "Quirihue"
+  },
+  {
+    "Codigo": 2,
+    "Nombre": "Cobquecura"
+  },
+  {
+    "Codigo": 3,
+    "Nombre": "Ninhue"
+  },
+  {
+    "Codigo": 4,
+    "Nombre": "Treguaco"
+  },
+  {
+    "Codigo": 5,
+    "Nombre": "Coelemu"
+  },
+  {
+    "Codigo": 6,
+    "Nombre": "Portezuelo"
+  },
+  {
+    "Codigo": 7,
+    "Nombre": "Ránquil"
+  }
+],
+[
+  {
+    "Codigo": 1,
+    "Nombre": "Masculino"
+  },
+  {
+    "Codigo": 2,
+    "Nombre": "Femenino"
+  }
+]
+]
